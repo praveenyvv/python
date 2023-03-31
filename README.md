@@ -1,2 +1,0 @@
-# python
-examples of python
